@@ -7,7 +7,7 @@ To install the required modules:
 $ pnpm install
 ```
 
-To run the (failing) test:
+To run the test:
 
 ```
 $ pnpm run test
